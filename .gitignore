@@ -1,0 +1,14 @@
+__pycache__
+speech_to_text/__pycache__/__init__.cpython-36.pyc
+speech_to_text/__pycache__/settings.cpython-36.pyc
+speech_to_text/__pycache__/urls.cpython-36.pyc
+speech_to_text/__pycache__/wsgi.cpython-36.pyc
+voice_to_text/__pycache__/__init__.cpython-36.pyc
+voice_to_text/__pycache__/admin.cpython-36.pyc
+voice_to_text/__pycache__/models.cpython-36.pyc
+voice_to_text/__pycache__/urls.cpython-36.pyc
+voice_to_text/__pycache__/views.cpython-36.pyc
+voice_to_text/migrations/__pycache__/__init__.cpython-36.pyc
+voice_to_text/__pycache__/urls.cpython-36.pyc
+voice_to_text/__pycache__/urls.cpython-36.pyc
+voice_to_text/__pycache__/views.cpython-36.pyc
